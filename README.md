@@ -1,4 +1,4 @@
-# Naive Bayes Classifier
+ # Naive Bayes Classifier
 ## Description
 This repository contains the implementation of a Naive Bayes Classifier for pattern recognition tasks. The classifier is designed to handle various types of data and provides a robust solution for classification problems.
 
